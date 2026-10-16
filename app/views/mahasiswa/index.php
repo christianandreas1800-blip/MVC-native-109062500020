@@ -1,3 +1,4 @@
+<?$mahasiswa = (isset($mahasiswa) && is_array($mahasiswa)) ? $mahasiswa : []; ?>
 <!DOCTYPE html>
 <html lang="id">
 
